@@ -1,0 +1,9 @@
+//
+//  CommonConfig.xcconfig
+//  XCConfigTest
+//
+//  Created by Mango on 16/8/12.
+//  Copyright © 2016年 Mango. All rights reserved.
+//
+
+BUILD_VERSION = 1.0.0

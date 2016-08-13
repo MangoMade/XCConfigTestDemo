@@ -1,0 +1,11 @@
+//
+//  DebugConfig.xcconfig
+//  XCConfigTest
+//
+//  Created by Mango on 16/8/12.
+//  Copyright © 2016年 Mango. All rights reserved.
+//
+#include "CommonConfig.xcconfig"
+#include "Pods/Target Support Files/Pods/Pods.debug.xcconfig"
+APP_DISPLAY_NAME = 测试服
+CONFIG_FLAG = DEBUG
